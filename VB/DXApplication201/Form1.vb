@@ -1,12 +1,12 @@
-﻿Imports Microsoft.VisualBasic
-#Region "#usings"
+﻿#Region "#usings"
 Imports DevExpress.XtraScheduler
 Imports System.Windows.Forms
 #End Region ' #usings
 
-Namespace DateNavigatorQueryActiveViewType_Example
+Namespace DXApplication201
 	Partial Public Class Form1
 		Inherits Form
+
 		Public Sub New()
 			InitializeComponent()
 			schedulerControl1.OptionsView.FirstDayOfWeek = DevExpress.XtraScheduler.FirstDayOfWeek.Monday

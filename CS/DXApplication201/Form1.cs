@@ -3,7 +3,7 @@ using DevExpress.XtraScheduler;
 using System.Windows.Forms;
 #endregion #usings
 
-namespace DateNavigatorQueryActiveViewType_Example
+namespace DXApplication201
 {
     public partial class Form1 : Form
     {

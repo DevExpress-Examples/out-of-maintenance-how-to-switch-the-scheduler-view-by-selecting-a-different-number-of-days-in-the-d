@@ -1,6 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
-Namespace DateNavigatorQueryActiveViewType_Example
+﻿Namespace DXApplication201
 	Partial Public Class Form1
 		''' <summary>
 		''' Required designer variable.
@@ -42,7 +40,7 @@ Namespace DateNavigatorQueryActiveViewType_Example
 			Me.schedulerControl1.Location = New System.Drawing.Point(0, 0)
 			Me.schedulerControl1.Name = "schedulerControl1"
 			Me.schedulerControl1.Size = New System.Drawing.Size(605, 447)
-			Me.schedulerControl1.Start = New System.DateTime(2013, 10, 15, 0, 0, 0, 0)
+			Me.schedulerControl1.Start = New DateTime(2013, 10, 15, 0, 0, 0, 0)
 			Me.schedulerControl1.Storage = Me.schedulerStorage1
 			Me.schedulerControl1.TabIndex = 0
 			Me.schedulerControl1.Text = "schedulerControl1"

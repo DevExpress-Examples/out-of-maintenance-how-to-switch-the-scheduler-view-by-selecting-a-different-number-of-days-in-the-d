@@ -1,4 +1,4 @@
-﻿namespace DateNavigatorQueryActiveViewType_Example
+﻿namespace DXApplication201
 {
     partial class Form1
     {

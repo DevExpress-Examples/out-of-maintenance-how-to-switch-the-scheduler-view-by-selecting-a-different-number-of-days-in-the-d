@@ -1,28 +1,23 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Reflection
+﻿Imports System.Reflection
 Imports System.Runtime.CompilerServices
 Imports System.Runtime.InteropServices
-
 ' General Information about an assembly is controlled through the following 
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
-<Assembly: AssemblyTitle("DateNavigatorQueryActiveViewType_Example")>
+<Assembly: AssemblyTitle("DXApplication201")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyConfiguration("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("DateNavigatorQueryActiveViewType_Example")>
-<Assembly: AssemblyCopyright("Copyright ©  2013")>
+<Assembly: AssemblyProduct("DXApplication201")>
+<Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: AssemblyCulture("")>
-
 ' Setting ComVisible to false makes the types in this assembly not visible 
 ' to COM components.  If you need to access a type in this assembly from 
 ' COM, set the ComVisible attribute to true on that type.
 <Assembly: ComVisible(False)>
-
 ' The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("b7a5120f-d11b-4eb3-a346-e39e8730b33a")>
-
+<Assembly: Guid("9006f149-aa49-4b8e-ba69-386d945fa738")>
 ' Version information for an assembly consists of the following four values:
 '
 '      Major Version
